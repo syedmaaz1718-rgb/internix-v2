@@ -1,0 +1,7 @@
+data/
+*.sqlite3*
+.env
+node_modules/
+__pycache__/
+test-results/
+private-exports/
